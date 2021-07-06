@@ -19,3 +19,6 @@ function countBy(x, n) {
     }
     return z;
   }
+console.log(countBy(1,10)) 
+console.log(countBy(2,5)) 
+  
